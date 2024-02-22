@@ -13,3 +13,5 @@
 
 - Encoder - LabelEncoder
 - Scaler - Min/Max, Standard, Robust
+
+- Wine Dataset --> Decision Tree Model
