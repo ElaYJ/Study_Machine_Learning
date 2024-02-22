@@ -11,7 +11,7 @@
 
 ### Chapter03. Preprocessing
 
-- Encoder - LabelEncoder
-- Scaler - Min/Max, Standard, Robust
+- Encoder : LabelEncoder
+- Scaler : Min/Max, Standard, Robust
 
 - Wine Dataset --> Decision Tree Model
